@@ -1,19 +1,13 @@
 +++
 title = "About"
-date = "2014-04-09"
-aliases = ["about-us","about-hugo","contact"]
-[ author ]
-  name = "Hugo Authors"
+date = "2021-10-12"
+author = "Davide Caputo"
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+# Hi, I'm Davide Caputo 👋
 
-It makes use of a variety of open source projects including:
+- 🎓 I’m currently a third-year Ph.D. student at the University of Genova (Italy)
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+- 💼 I'm a Mobile and IoT Security Enthusiast
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+- 💻 I love playing in CTF competitions
