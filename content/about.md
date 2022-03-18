@@ -4,10 +4,10 @@ date = "2021-10-12"
 author = "Davide Caputo"
 +++
 
-# Hi, I'm Davide Caputo 👋
+# Hi, I'm Davide Caputo, PhD 👋
 
-- 🎓 I’m currently a third-year Ph.D. student at the University of Genova (Italy)
+- 💼 Cybersecurity Engineer at [Talos s.r.l.s](https://talos-sec.com)
 
-- 💼 I'm a Mobile and IoT Security Enthusiast
+- 🤩 Cybersecurity Enthusiast
 
-- 💻 I love playing in CTF competitions
+- 💻 Lover of CTF competitions
