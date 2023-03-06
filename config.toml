@@ -35,7 +35,7 @@ paginate = 5
     dateFormatList = "2006-01-02"
 
     [languages.en.params.logo]
-      logoText = "Davide Caputo"
+      logoText = "dado1513"
       logoHomeLink = "/"
     # or
     #
