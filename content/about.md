@@ -7,7 +7,7 @@ author = "Davide Caputo"
 
 #### Hi, I'm Davide Caputo (aka @dado1513), PhD 👋 
 
-<div style="text-align: right; position: relative; float: right; top: -4em"><img src="/img/personal-pic.png" width="200" alt="My Image" /></div>
+<div  id="pic-div" style="text-align: right; position: relative; float: right; top: -4em"><img src="/img/personal-pic.png" alt="My Image" /></div>
 
 - 💼 Cybersecurity Engineer at [Talos s.r.l.s](https://talos-sec.com)
 
