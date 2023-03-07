@@ -1437,3 +1437,13 @@ div.code-toolbar>.toolbar span:hover {
     margin: 0
 }
 
+
+#div-icon {
+    text-align: center;
+    margin-top: 8em;
+
+}
+#div-icon p {
+    margin: 1em;
+    display: inline;
+}
