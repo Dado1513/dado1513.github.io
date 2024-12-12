@@ -1,4 +1,4 @@
-baseurl      = "dado1513.dev"
+baseurl      = ""
 title        = "dado1513"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
