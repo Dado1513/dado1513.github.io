@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on dado1513</title>
-        <link>//localhost:1313/posts/</link>
+        <link>/posts/</link>
         <description>Recent content in Posts on dado1513</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Wed, 17 Sep 1986 00:00:00 +0000</lastBuildDate>
-        <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Hello Friend</title>
-            <link>//localhost:1313/posts/hello/</link>
+            <link>/posts/hello/</link>
             <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
             
-            <guid>//localhost:1313/posts/hello/</guid>
+            <guid>/posts/hello/</guid>
             <description>&lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Hello, friend?&amp;rdquo; That&amp;rsquo;s lame.
 Maybe I should give you a name&amp;hellip;
