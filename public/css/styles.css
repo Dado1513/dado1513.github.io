@@ -1,0 +1,12 @@
+
+#pic-div {
+    text-align: right; 
+    position: relative; float: right; top: -4em;
+    width: 30%;
+}
+
+@media screen and (max-width: 650px) {
+    #pic-div {
+        display: none !important;
+    }
+}
