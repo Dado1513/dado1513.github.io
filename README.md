@@ -4,5 +4,6 @@
 - **Deploy**
 ```
 hugo
-cp -r public/* docs/
+cp -r public/* docs/ 
+Copy-Item -Force .\public\ .\docs\
 ```
