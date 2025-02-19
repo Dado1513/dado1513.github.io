@@ -10,7 +10,7 @@ author = "Davide Caputo"
 {{< image src="/img/personal-pic.png" alt="Hello Friend" position="right"  style="width: 30%; text-align: right; border-radius: 8px; text-align: right; position: relative; float: right; top: -5em" >}}
 
 
-- 💼 Cybersecurity Engineer at [Talos s.r.l.s](https://talos-sec.com)
+- 💼 Senior Cybersecurity Consultant at [Horizon Security S.r.l.](https://www.horizonconsulting.com/)
 
 - 🤩 Cybersecurity Enthusiast
  

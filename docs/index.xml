@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dado1513</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on dado1513</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>//localhost:1313/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/about/</guid>
-      <description>&lt;h4 id=&#34;hi-im-davide-caputo-aka-dado1513-phd-&#34;&gt;Hi, I&amp;rsquo;m Davide Caputo (aka @dado1513), PhD 👋&lt;/h4&gt;&#xA;&#xD;&#xA;    &lt;img src=&#34;//localhost:1313/img/personal-pic.png&#34;  alt=&#34;Hello Friend&#34;  class=&#34;right&#34;  style=&#34;width: 30%; text-align: right; border-radius: 8px; text-align: right; position: relative; float: right; top: -5em&#34;  /&gt;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;💼 Cybersecurity Engineer at &lt;a href=&#34;https://talos-sec.com&#34;&gt;Talos s.r.l.s&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;🤩 Cybersecurity Enthusiast&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;👨‍💻 &lt;a href=&#34;https://app.hackthebox.com/profile/580421&#34;&gt;HTB Player&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;💻 OSCP Student&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>/about/</guid>
+      <description>&lt;h4 id=&#34;hi-im-davide-caputo-aka-dado1513-phd-&#34;&gt;Hi, I&amp;rsquo;m Davide Caputo (aka @dado1513), PhD 👋&lt;/h4&gt;&#xA;&#xA;    &lt;img src=&#34;/img/personal-pic.png&#34;  alt=&#34;Hello Friend&#34;  class=&#34;right&#34;  style=&#34;width: 30%; text-align: right; border-radius: 8px; text-align: right; position: relative; float: right; top: -5em&#34;  /&gt;&#xA;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;💼 Senior Cybersecurity Consultant at &lt;a href=&#34;https://www.horizonconsulting.com/&#34;&gt;Horizon Security S.r.l.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;🤩 Cybersecurity Enthusiast&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;👨‍💻 &lt;a href=&#34;https://app.hackthebox.com/profile/580421&#34;&gt;HTB Player&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;💻 OSCP Student&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Hello Friend</title>
-      <link>//localhost:1313/posts/hello/</link>
+      <link>/posts/hello/</link>
       <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/hello/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Hello, friend?&amp;rdquo; That&amp;rsquo;s lame.&#xA;Maybe I should give you a name&amp;hellip;&#xA;But that&amp;rsquo;s a slippery slope.&#xA;You&amp;rsquo;re only in my head.&#xA;We have to remember that&amp;hellip;&#xA;Shit.&#xA;It&amp;rsquo;s actually happened.&#xA;I&amp;rsquo;m talking to an imaginary person.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;— Mr. Robot S01E01&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+      <guid>/posts/hello/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Hello, friend?&amp;rdquo; That&amp;rsquo;s lame.&#xA;Maybe I should give you a name&amp;hellip;&#xA;But that&amp;rsquo;s a slippery slope.&#xA;You&amp;rsquo;re only in my head.&#xA;We have to remember that&amp;hellip;&#xA;Shit.&#xA;It&amp;rsquo;s actually happened.&#xA;I&amp;rsquo;m talking to an imaginary person.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;— Mr. Robot S01E01&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
     </item>
   </channel>
 </rss>
