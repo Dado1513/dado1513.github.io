@@ -1,19 +1,23 @@
 +++
-title = "About Me"
+title = "About Me 👋"
 date = "2023-03-06"
 author = "Davide Caputo"
 +++
 
 
-#### Hi, I'm Davide Caputo (aka @dado1513), PhD 👋 
+#### Hi, I'm Davide Caputo (aka @dado1513), PhD
 
-{{< image src="/img/personal-pic.png" alt="Hello Friend" position="right"  style="width: 30%; text-align: right; border-radius: 8px; text-align: right; position: relative; float: right; top: -5em" >}}
+Cybersecurity Enthusiast 🤩 and HTB player 👨‍💻
 
 
-- 💼 Senior Cybersecurity Consultant at [Horizon Security S.r.l.](https://www.horizonconsulting.com/)
 
-- 🤩 Cybersecurity Enthusiast
- 
-- 👨‍💻 [HTB Player](https://app.hackthebox.com/profile/580421)
+{{< linked-image 
+    src="https://www.hackthebox.eu/badge/image/580421" 
+    alt="HTB Badge"  position="center"
+    href="https://www.hackthebox.eu/profile/580421" 
+    style="width: 30%; text-align: center; border-radius: 8px; text-align: center; position: relative; float: center; "  >}}
 
-- 💻 OSCP Student
+Passionate about mobile application security (Android and iOS) 📱 and red teaming (work in progress 🛠) 🔴
+
+I'm studying for the OSCP 🎒 and currently working as a Senior Cyber Security Consultant at Horizon Security S.r.l.
+

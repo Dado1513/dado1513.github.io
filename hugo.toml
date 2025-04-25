@@ -1,5 +1,5 @@
 baseurl      = ""
-title        = "dado1513"
+title        = "Dado1513"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 pagination.pagerSize = 10
@@ -11,7 +11,7 @@ pagination.pagerSize = 10
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "Ph.D, Cyber Security enthusiast, Penetration Tester & Father"
+  homeSubtitle = 'Ph.D, Cyber Security enthusiast, Penetration Tester & Father'
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -30,6 +30,11 @@ pagination.pagerSize = 10
   customCSS = ["css/styles.css"]
   customJS  = []
   enableThemeToggle = false
+
+[params.portrait]
+    path     = "/img/personal-pic.png"
+    alt      = "Portrait"
+    maxWidth = "200px"
 
 
 [taxonomies]
@@ -99,3 +104,4 @@ pagination.pagerSize = 10
     mask = "#3ddc84"
     msapplication = "#3ddc84"
     theme = "#3ddc84"
+

@@ -10,11 +10,11 @@
     <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Me</title>
+      <title>About Me 👋</title>
       <link>/about/</link>
       <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
       <guid>/about/</guid>
-      <description>&lt;h4 id=&#34;hi-im-davide-caputo-aka-dado1513-phd-&#34;&gt;Hi, I&amp;rsquo;m Davide Caputo (aka @dado1513), PhD 👋&lt;/h4&gt;&#xA;&#xA;    &lt;img src=&#34;/img/personal-pic.png&#34;  alt=&#34;Hello Friend&#34;  class=&#34;right&#34;  style=&#34;width: 30%; text-align: right; border-radius: 8px; text-align: right; position: relative; float: right; top: -5em&#34;  /&gt;&#xA;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;💼 Senior Cybersecurity Consultant at &lt;a href=&#34;https://www.horizonconsulting.com/&#34;&gt;Horizon Security S.r.l.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;🤩 Cybersecurity Enthusiast&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;👨‍💻 &lt;a href=&#34;https://app.hackthebox.com/profile/580421&#34;&gt;HTB Player&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;💻 OSCP Student&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;h4 id=&#34;hi-im-davide-caputo-aka-dado1513-phd&#34;&gt;Hi, I&amp;rsquo;m Davide Caputo (aka @dado1513), PhD&lt;/h4&gt;&#xA;&lt;p&gt;Cybersecurity Enthusiast 🤩 and HTB player 👨‍💻&lt;/p&gt;&#xA;&lt;div style=&#34;text-align: center;&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;https://www.hackthebox.eu/profile/580421&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&#xD;&#xA;        &lt;img src=&#34;https://www.hackthebox.eu/badge/image/580421&#34;  alt=&#34;HTB Badge&#34;  class=&#34;center&#34;  style=&#34;width: 30%; text-align: center; border-radius: 8px; text-align: center; position: relative; float: center; &#34;  /&gt;&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;  &lt;/div&gt;&#xA;&lt;p&gt;Passionate about mobile application security (Android and iOS) 📱 and red teaming (work in progress 🛠) 🔴&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m studying for the OSCP 🎒 and currently working as a Senior Cyber Security Consultant at Horizon Security S.r.l.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hello Friend</title>
